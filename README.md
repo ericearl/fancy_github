@@ -1,6 +1,6 @@
-# fancy_github
+# F-R-E-E, as in Free: A Brief Guide to Built-in GitHub Repository Utilities
 
-A repository to teach about the utility of some of GitHub's unique suite of free tools within repositories: Issues, Milestones, Projects, and Wiki.
+A repository to teach about the utility of some of GitHub's unique suite of free tools within repositories: Issues, Milestones, Projects, Wiki, and Discussions.
 
 ## GitHub Issues
 
