@@ -1,4 +1,4 @@
-# F-R-E-E, as in Free: A Brief Guide to Built-in GitHub Repository Utilities
+# F-R-E-E as in Free: A Brief Guide to some GitHub Repository Tools
 
 A repository to teach about the utility of some of GitHub's unique suite of free tools within repositories: Issues, Milestones, Projects, Wiki, and Discussions.
 
